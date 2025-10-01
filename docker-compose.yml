@@ -1,0 +1,11 @@
+services:
+  mr-recipe-agent:
+    build: .
+    container_name: mr_recipe_agent
+    env_file:
+      - .env
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    volumes:
+      - ./src:/app/src
