@@ -5,7 +5,9 @@
 
 <h1 align="center">Sentient Chat Agent - Mr. Recipe</h1>
 
-This agent is developed based on https://github.com/sentient-agi/Sentient-Agent-Framework for integration into https://chat.sentient.xyz/. Example query:
+This agent is developed based on https://github.com/sentient-agi/Sentient-Agent-Framework for integration into https://chat.sentient.xyz/. 
+
+Example query:
 
 ```bash
 {
