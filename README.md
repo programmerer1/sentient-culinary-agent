@@ -7,7 +7,7 @@
 
 This agent is developed based on https://github.com/sentient-agi/Sentient-Agent-Framework for integration into https://chat.sentient.xyz/. 
 
-Example query:
+Example POST query - http://localhost:8000/assist:
 
 ```bash
 {
